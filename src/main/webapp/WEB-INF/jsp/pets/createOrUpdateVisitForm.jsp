@@ -8,7 +8,7 @@
 <%@ taglib prefix="joda" uri="http://www.joda.org/joda/time/tags" %>
 <%@ taglib prefix="petclinic" tagdir="/WEB-INF/tags" %>
 
-
+<!--Hai -->
 <html lang="en">
 
 <jsp:include page="../fragments/staticFiles.jsp"/>
